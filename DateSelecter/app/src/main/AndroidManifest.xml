@@ -22,5 +22,4 @@
         <activity android:name=".ThridActivity"/>
         <activity android:name=".FourActivity"/>
     </application>
-
 </manifest>
